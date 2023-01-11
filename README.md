@@ -1,4 +1,14 @@
 ### Hi there 👋
+Graduated in Computer Science with 9 years of experience in the application of diverse technologies, programmer, researcher, and professor for: (1) University of Las Tunas, (2) University of Holguin, (3) Autonomous University of Guerrero, and (4) ENCCODE. You can know a little more about me by visiting my personal website at https://www.segurascode.com/
+
+
+### Some works for clients 🔭
+- Elite Pharmacy Inc https://www.elitepharmacyinc.com/
+- PurshAnn E-Commerce https://purshann.com/
+- Pool and Spa Rehab (in process) https://www.poolsparehab.com/
+- Tampa Handyman LLC (in process) https://www.tpahandyman.com/
+
+Other interesting projects and their respective codes can be found in my repository. Welcome! ⚡
 
 <!--
 **csegur4/csegur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
