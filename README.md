@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Meta Front-End Developer, graduate in Computer Science and Master's Degree in Mathematics with 9 years of experience in the application of diverse technologies, programmer, researcher, and professor for: (1) University of Las Tunas, (2) University of Holguin, (3) Autonomous University of Guerrero, and (4) ENCCODE INC.
+I'm a Meta Front-End Developer, graduate in Computer Science and Master's Degree in Mathematics with 9 years of experience in the application of diverse technologies for: (1) University of Las Tunas, (2) University of Holguin, (3) Autonomous University of Guerrero, and (4) ENCCODE INC.
 
 
 ### Some works for clients 🔭
