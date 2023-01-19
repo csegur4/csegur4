@@ -21,6 +21,7 @@ I'm a Front-End Developer certified by Meta, graduate in Computer Science with a
 - Secrets <br />
   Description: Secrets application using NodeJS+Express+MongoDB with user authentication using Passport.JS that allows you to login using your Google account. <br />
   Git: https://github.com/csegur4/secrets
+  Deployed: https://secrets-app.herokuapp.com/
   
   
 - ToDo List <br />
