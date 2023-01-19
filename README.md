@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm a Meta Front-End Developer, graduate in Computer Science and Master's Degree in Mathematics with 9 years of experience in the application of diverse technologies for: (1) University of Las Tunas, (2) University of Holguin, (3) Autonomous University of Guerrero, and (4) ENCCODE INC.
-
+I'm a Front-End Developer certified by Meta, graduate in Computer Science with a master’s degree in Mathematics with 9 years of experience in the application of diverse technologies for: (1) University of Las Tunas, (2) University of Holguin, and (3) ENCCODE INC.
 
 ### Some works for clients 🔭
 - Elite Pharmacy Inc https://www.elitepharmacyinc.com/
