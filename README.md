@@ -7,6 +7,28 @@ I'm a Front-End Developer certified by Meta, graduate in Computer Science with a
 - Pool and Spa Rehab (in process) https://www.poolsparehab.com/
 - Tampa Handyman LLC (in process) https://www.tpahandyman.com/
 
+### Course projects ⚡
+- Little Lemon Restaurant (React App)
+  Git: https://github.com/csegur4/little-lemon-app
+  Deployed: https://little-lemon-dev.vercel.app/
+ 
+  
+- Mini Portfolio (React App)
+  Git: https://github.com/csegur4/portfolio
+  Deployed: https://mini-portfolio-meta.vercel.app/
+
+  
+- Secrets
+  Description: Secrets application using NodeJS+Express+MongoDB with user authentication using Passport.JS that allows you to login using your Google account.
+  Git: https://github.com/csegur4/secrets
+  
+  
+- ToDo List
+  Description: Web application to manage a toDoList using NodeJS+Express+MongoDB.
+  Git: 
+  Deployed: https://stormy-sea-87564.herokuapp.com/
+  
+
 Other interesting projects and their respective codes can be found in my repository. Welcome! ⚡
 
 <!--
