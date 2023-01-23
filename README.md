@@ -39,6 +39,7 @@ Other interesting projects and their respective codes can be found in my reposit
 
 ### 📫 Contact Info
 📧 cibercarlossv@gmail.com
+🔗 https://www.linkedin.com/in/carlossv/
 
 <!--
 **csegur4/csegur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
