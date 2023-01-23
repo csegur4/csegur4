@@ -30,22 +30,16 @@ I'm a Front-End Developer certified by Meta, graduate in Computer Science with a
   Deployed: https://stormy-sea-87564.herokuapp.com/
   
 ### ⚡ Fun fact
-<ul> 
-  <li>🌎 +25 PLACES VISITED </li>
-  <li>📷 +60 AMAZING REELS </li>
-  <li>🧑‍🍳 +30 RECIPES COMPLETED </li>
-  <li>📸 3066 IN MY 📲 </li>
-</ul>
+  🌎 +25 PLACES VISITED
+  📷 +60 AMAZING REELS
+  🧑‍🍳 +30 RECIPES COMPLETED
+  📸 3066 IN MY 📲
 
 Other interesting projects and their respective codes can be found in my repository. Welcome! ⚡
 
 ### 📫 Contact Info
 📧 cibercarlossv@gmail.com
-<style>
-  ul {
-    list-style-type:none;
-  }
-</style>
+
 <!--
 **csegur4/csegur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
