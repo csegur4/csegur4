@@ -7,7 +7,7 @@ I'm a Front-End Developer certified by Meta, graduate in Computer Science with a
 - Pool and Spa Rehab (in process) https://www.poolsparehab.com/
 - Tampa Handyman LLC (in process) https://www.tpahandyman.com/
 
-### Course projects ⚡
+### Side projects ⚡ 🛠
 - Little Lemon Restaurant (React App) <br />
   Git: https://github.com/csegur4/little-lemon-app <br />
   Deployed: https://little-lemon-dev.vercel.app/
