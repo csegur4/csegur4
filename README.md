@@ -38,9 +38,9 @@ I'm a Front-End Developer certified by Meta, graduate in Computer Science with a
 Other interesting projects and their respective codes can be found in my repository. Welcome! ⚡
 
 ### 📫 Contact Info
-📧 cibercarlossv@gmail.com
+📧 cibercarlossv@gmail.com <br />
 🔗 https://www.linkedin.com/in/carlossv/
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+
 <!--
 **csegur4/csegur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
