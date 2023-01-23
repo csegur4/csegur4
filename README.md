@@ -30,10 +30,12 @@ I'm a Front-End Developer certified by Meta, graduate in Computer Science with a
   Deployed: https://stormy-sea-87564.herokuapp.com/
   
 ### ⚡ Fun fact
-🌎 +25 PLACES VISITED <br />
-📷 +60 AMAZING REELS <br />
-🧑‍🍳 +30 RECIPES COMPLETED <br />
-📸 3066 IN MY 📲 <br />
+<ul> 
+  <li>🌎 +25 PLACES VISITED </li>
+  <li>📷 +60 AMAZING REELS </li>
+  <li>🧑‍🍳 +30 RECIPES COMPLETED </li>
+  <li>📸 3066 IN MY 📲 </li>
+</ul>
 
 Other interesting projects and their respective codes can be found in my repository. Welcome! ⚡
 
