@@ -1,6 +1,6 @@
 <h1> Hi there 🤓 </h1>
 I'm a Front-End Developer certified by Meta, graduate in Computer Science with a master’s degree in Mathematics with 9 years of experience in the application of diverse technologies for: (1) University of Las Tunas, (2) University of Holguin, and (3) ENCCODE INC.
-
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
 ### 🔭 Some works for clients 
 - Elite Pharmacy Inc https://www.elitepharmacyinc.com/
 - PurshAnn E-Commerce https://purshann.com/
