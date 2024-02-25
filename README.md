@@ -1,5 +1,5 @@
 <h1> Hi there 🤓 </h1>
-I'm a Front-End Developer certified by Meta, graduate in Computer Science with a master’s degree in Mathematics with 9 years of experience in the application of diverse technologies for: (1) University of Las Tunas, (2) University of Holguin, and (3) ENCCODE INC.
+I'm a graduate in Computer Science with 11 years of experience in the application of diverse technologies for: (1) University of Las Tunas, (2) University of Holguin, (3) ENCCODE INC, (4) Startup Street, and (5) Trencent / Elite Fulfillment Group.
 
 ### 🔭 Some works for clients 
 - Elite Pharmacy Inc https://www.elitepharmacyinc.com/
