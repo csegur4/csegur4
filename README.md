@@ -1,52 +1,55 @@
-Hi there 👋
-I'm Carlos Segura, a Software Engineer specializing in enterprise full-stack development and Microsoft Azure cloud solutions. With expertise in building scalable applications for banking, smart home security, and automotive industries, I focus on clean architecture, identity management, and cloud-native solutions.
-🚀 What I Do
-Enterprise Development:
+# Hi there 👋
 
-ASP.NET Core APIs with Clean Architecture
-Angular frontals with enterprise-grade authentication
-Azure cloud infrastructure (Functions, App Service, Key Vault, SQL Database)
+I'm Carlos Segura, a **Software Engineer** specializing in enterprise full-stack development and **Microsoft Azure cloud solutions**. With expertise in building scalable applications for banking, smart home security, and automotive industries, I focus on clean architecture, identity management, and cloud-native solutions.
 
-Identity & Security:
+## 🚀 What I Do
 
-Azure AD B2B/B2C implementation
-Auth0, Okta, SAML, OAuth 2.0, JWT
-Enterprise SSO integrations
+**Enterprise Development:**
+- ASP.NET Core APIs with Clean Architecture
+- Angular frontends with enterprise-grade authentication
+- Azure cloud infrastructure (Functions, App Service, Key Vault, SQL Database)
 
-Enterprise Integrations:
+**Identity & Security:**
+- Azure AD B2B/B2C implementation
+- Auth0, Okta, SAML, OAuth 2.0, JWT
+- Enterprise SSO integrations
 
-Salesforce API, Microsoft Graph
-SendGrid, Twilio, Adobe PDF SDK, ZoHo Sign
-Multi-vendor payment processing (Blackhawk, Incentive Concepts, Dash)
+**Enterprise Integrations:**
+- Salesforce API, Microsoft Graph
+- SendGrid, Twilio, Adobe PDF SDK, ZoHo Sign
+- Multi-vendor payment processing (Blackhawk, Incentive Concepts, Dash)
 
-💼 Current Focus
-Building enterprise-grade solutions at Trencent / Elite Fulfillment Group:
+## 💼 Current Focus
 
-Multi-tenant rewards platforms for banking industry
-Smart home security CRM systems
-Automotive customer portals
-Rebate management systems for tire manufacturing
+Building enterprise-grade solutions at **Trencent / Elite Fulfillment Group**:
+- Multi-tenant rewards platforms for banking industry
+- Smart home security CRM systems
+- Automotive customer portals
+- Rebate management systems for tire manufacturing
 
-🛠️ Tech Stack
-Backend: ASP.NET Core, Entity Framework Core, SQL Server, Azure Functions
-Frontend: Angular, TypeScript, Bootstrap
-Cloud: Microsoft Azure (Functions, App Service, Key Vault, Blob Storage, CDN, SQL Database)
-Identity: Azure AD B2B/B2C, Auth0, Okta, MSAL
-Tools: Git, Azure CLI, PowerShell, Swagger/OpenAPI
-🎓 Background
+## 🛠️ Tech Stack
 
-MSc. Mathematics - Autonomous University of Guerrero (2019-2021)
-MSc. Mathematics Education - University of Holguin (2015-2017)
-BSc. Computer Science - University of Oriente (2008-2013)
-Former University Professor (Algebra, Programming, Algorithms, Optimization)
+**Backend:** ASP.NET Core, Entity Framework Core, SQL Server, Azure Functions  
+**Frontend:** Angular, TypeScript, Bootstrap  
+**Cloud:** Microsoft Azure (Functions, App Service, Key Vault, Blob Storage, CDN, SQL Database)  
+**Identity:** Azure AD B2B/B2C, Auth0, Okta, MSAL  
+**Tools:** Git, Azure CLI, PowerShell, Swagger/OpenAPI
 
-📜 Certifications
+## 🎓 Background
 
-Microsoft Azure: Manage Resources in Azure | Create Serverless Applications
-Meta: Professional Certificate Front-End Developer
+- **MSc. Mathematics** - Autonomous University of Guerrero (2019-2021)
+- **MSc. Mathematics Education** - University of Holguin (2015-2017)
+- **BSc. Computer Science** - University of Oriente (2008-2013)
+- Former University Professor (Algebra, Programming, Algorithms, Optimization)
 
-📫 Let's Connect
-🌐 Portfolio: segurascode.com
-💼 LinkedIn: linkedin.com/in/carlossv
-📧 Email: cibercarlossv@gmail.com
-📍 Location: Tampa, FL
+## 📜 Certifications
+
+- **Microsoft Azure**: [Manage Resources in Azure](https://coursera.org/share/590abfda55197b5e01f7b3d02a43479a) | [Create Serverless Applications](https://coursera.org/share/9c0e63b242493c516a2c8068700ed6e3)
+- **Meta**: [Professional Certificate Front-End Developer](https://coursera.org/share/bdbff4bd30b2c55015bad350e2d54f0e)
+
+## 📫 Let's Connect
+
+🌐 **Portfolio:** [segurascode.com](https://segurascode.com)  
+💼 **LinkedIn:** [linkedin.com/in/carlossv](https://www.linkedin.com/in/carlossv)  
+📧 **Email:** cibercarlossv@gmail.com  
+📍 **Location:** Tampa, FL
