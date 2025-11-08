@@ -1,57 +1,52 @@
-<h1> Hi there 🤓 </h1>
-I'm a graduate in Computer Science with 11 years of experience in the application of diverse technologies for: (1) University of Las Tunas, (2) University of Holguin, (3) ENCCODE INC, (4) Startup Street, and (5) Trencent / Elite Fulfillment Group.
+Hi there 👋
+I'm Carlos Segura, a Software Engineer specializing in enterprise full-stack development and Microsoft Azure cloud solutions. With expertise in building scalable applications for banking, smart home security, and automotive industries, I focus on clean architecture, identity management, and cloud-native solutions.
+🚀 What I Do
+Enterprise Development:
 
-### 🔭 Some works for clients 
-- Elite Pharmacy Inc https://www.elitepharmacyinc.com/
-- PurshAnn E-Commerce https://purshann.com/
-- Pool and Spa Rehab (in process) https://www.poolsparehab.com/
-- Tampa Handyman LLC (in process) https://www.tpahandyman.com/
+ASP.NET Core APIs with Clean Architecture
+Angular frontals with enterprise-grade authentication
+Azure cloud infrastructure (Functions, App Service, Key Vault, SQL Database)
 
-### 🛠 Side projects 
-- Little Lemon Restaurant (React App) <br />
-  Git: https://github.com/csegur4/little-lemon-app <br />
-  Deployed: https://little-lemon-dev.vercel.app/
- 
-  
-- Mini Portfolio (React App) <br />
-  Git: https://github.com/csegur4/portfolio <br />
-  Deployed: https://mini-portfolio-meta.vercel.app/
+Identity & Security:
 
-  
-- Secrets <br />
-  Description: Secrets application using NodeJS+Express+MongoDB with user authentication using Passport.JS that allows you to login using your Google account. <br />
-  Git: https://github.com/csegur4/secrets <br />
-  Deployed: https://secrets-app.herokuapp.com/
-  
-  
-- ToDo List <br />
-  Description: Web application to manage a toDoList using NodeJS+Express+MongoDB. <br />
-  Git: https://github.com/csegur4/toDoList <br />
-  Deployed: https://stormy-sea-87564.herokuapp.com/
-  
-### ⚡ Fun fact
-    🌎 +25 PLACES VISITED 
-    📷 +60 AMAZING REELS 
-    🧑‍🍳 +30 RECIPES COMPLETED 
-    📸 3066 IN MY 📲 
+Azure AD B2B/B2C implementation
+Auth0, Okta, SAML, OAuth 2.0, JWT
+Enterprise SSO integrations
 
-Other interesting projects and their respective codes can be found in my repository. Welcome! ⚡
+Enterprise Integrations:
 
-### 📫 Contact Info
-📧 cibercarlossv@gmail.com <br />
-🔗 https://www.linkedin.com/in/carlossv/
+Salesforce API, Microsoft Graph
+SendGrid, Twilio, Adobe PDF SDK, ZoHo Sign
+Multi-vendor payment processing (Blackhawk, Incentive Concepts, Dash)
 
-<!--
-**csegur4/csegur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Current Focus
+Building enterprise-grade solutions at Trencent / Elite Fulfillment Group:
 
-Here are some ideas to get you started:
+Multi-tenant rewards platforms for banking industry
+Smart home security CRM systems
+Automotive customer portals
+Rebate management systems for tire manufacturing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Backend: ASP.NET Core, Entity Framework Core, SQL Server, Azure Functions
+Frontend: Angular, TypeScript, Bootstrap
+Cloud: Microsoft Azure (Functions, App Service, Key Vault, Blob Storage, CDN, SQL Database)
+Identity: Azure AD B2B/B2C, Auth0, Okta, MSAL
+Tools: Git, Azure CLI, PowerShell, Swagger/OpenAPI
+🎓 Background
+
+MSc. Mathematics - Autonomous University of Guerrero (2019-2021)
+MSc. Mathematics Education - University of Holguin (2015-2017)
+BSc. Computer Science - University of Oriente (2008-2013)
+Former University Professor (Algebra, Programming, Algorithms, Optimization)
+
+📜 Certifications
+
+Microsoft Azure: Manage Resources in Azure | Create Serverless Applications
+Meta: Professional Certificate Front-End Developer
+
+📫 Let's Connect
+🌐 Portfolio: segurascode.com
+💼 LinkedIn: linkedin.com/in/carlossv
+📧 Email: cibercarlossv@gmail.com
+📍 Location: Tampa, FL
