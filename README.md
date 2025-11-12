@@ -17,7 +17,7 @@ I'm Carlos Segura, a **Software Engineer** specializing in enterprise full-stack
 **Enterprise Integrations:**
 - Salesforce API, Microsoft Graph
 - SendGrid, Twilio, Adobe PDF SDK, ZoHo Sign
-- Multi-vendor payment processing (Blackhawk, Incentive Concepts, Dash)
+- Multi-vendor payment processing
 
 ## 💼 Current Focus
 
